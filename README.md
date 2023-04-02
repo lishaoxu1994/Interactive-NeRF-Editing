@@ -1,5 +1,7 @@
-# Interactive-NeRF-Editing
-
+# Interactive Geometry Editing of Neural Radiance Fields
+Code for our paper:
+> **Interactive Geometry Editing of Neural Radiance Fields**
+> <br>Shaoxu Li, Ye Pan<br>
 
 
 
