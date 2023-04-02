@@ -3,7 +3,6 @@ Code for our paper:
 > **Interactive Geometry Editing of Neural Radiance Fields**
 > <br>Shaoxu Li, Ye Pan<br>
 
-![image](demo_mic.gif)
 
 ![image](demo_pinecone.gif)
 
