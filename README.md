@@ -23,11 +23,11 @@
 ## BibTeX
 
 ```
-@misc{li2023instant,
-      title={Instant Neural Radiance Fields Stylization}, 
+@misc{li2023interactive,
+      title={Interactive Geometry Editing of Neural Radiance Fields}, 
       author={Shaoxu Li and Ye Pan},
       year={2023},
-      eprint={2303.16884},
+      eprint={2303.11537},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
