@@ -4,8 +4,9 @@ Code for our paper:
 > <br>Shaoxu Li, Ye Pan<br>
 
 
-![image](demo_pinecone.gif)
+![image1](demo_pinecone.gif)
 
+![image2](demo_mic.gif)
 
 
 
