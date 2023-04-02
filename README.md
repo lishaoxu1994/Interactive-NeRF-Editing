@@ -32,7 +32,7 @@
       primaryClass={cs.CV}
 }
 ```
-## Related Works
+## Related Work
 
 ```
 @inproceedings{mildenhall2020nerf,
