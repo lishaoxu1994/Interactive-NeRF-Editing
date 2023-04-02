@@ -5,6 +5,7 @@ Code for our paper:
 
 ![image](demo_mic.gif)
 
+![image](demo_pinecone.gif)
 
 
 
