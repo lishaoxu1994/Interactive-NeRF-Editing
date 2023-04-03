@@ -1,4 +1,4 @@
-# Interactive Geometry Editing of Neural Radiance Fields
+# Interactive Geometry Editing of Neural Radiance Fields [[Arxiv Paper](https://arxiv.org/abs/2303.11537)]
 Code for our paper:
 > **Interactive Geometry Editing of Neural Radiance Fields**
 > <br>Shaoxu Li, Ye Pan<br>
