@@ -4,9 +4,9 @@ Code for our paper:
 > <br>Shaoxu Li, Ye Pan<br>
 
 
-![image1](demo_pinecone.gif)
+<div align=center><img src="demo_mic.gif"/></div>
 
-![image2](demo_mic.gif)
+<div align=center><img src="demo_pinecone.gif"/></div>
 
 ## Installation
   ## Dependencies
