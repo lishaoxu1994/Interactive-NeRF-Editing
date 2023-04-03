@@ -6,7 +6,6 @@ Code for our paper:
 
 ![image1](demo_pinecone.gif)
 
-![image2](demo_mic.gif)
 
 
 
