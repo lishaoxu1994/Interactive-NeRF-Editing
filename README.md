@@ -4,6 +4,7 @@ Code for our paper:
 > <br>Shaoxu Li, Ye Pan<br>
 
 <div align=center><img src="demo_mic.gif"/></div>
+
 <div align=center><img src="demo_pinecone.gif"/></div>
 
 
