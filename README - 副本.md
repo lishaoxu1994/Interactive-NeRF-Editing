@@ -1,36 +1,16 @@
-# Interactive Geometry Editing of Neural Radiance Fields
+# Interactive Geometry Editing of Neural Radiance Fields [[Arxiv Paper](https://arxiv.org/abs/2303.11537)]
 Code for our paper:
 > **Interactive Geometry Editing of Neural Radiance Fields**
 > <br>Shaoxu Li, Ye Pan<br>
 
+<div align=center><img src="demo_mic.gif"/></div>
 
-![image1](demo_pinecone.gif)
+<div align=center><img src="demo_pinecone.gif"/></div>
 
-![image2](demo_mic.gif)
 
-## Installation
-  ## Dependencies
-  - PyTorch 1.4
-  - matplotlib
-  - numpy
-  - imageio
-  - imageio-ffmpeg
-  - configargparse
 
-## How To Run?
-Download data for two example datasets: `lego` and `fern`
-```
-bash download_example_data.sh
-```
-To train a low-res `lego` NeRF:
-```
-python run_nerf.py --config configs/lego.txt
-```
-To render a edited `lego` NeRF:
-```
-python run_nerf_edit.py --config configs/lego.txt
-```
-Sorry for not finishing the interface design. You can define the cages in "run_nerf_edit.py" line 29-40. You can choose to use boxs or directly indicate some control points by setting "box_cage" and other parameters.
+
+
 
 ## Comments
 
